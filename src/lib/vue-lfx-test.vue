@@ -1,5 +1,5 @@
 <template>
-    <div class="pay-box">
+    <div>
         123
     </div>
 </template>
