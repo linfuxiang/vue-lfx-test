@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
-import test from './lib/index.js'
-Vue.use(test)
+import vueLfxTest from './lib/vue-lfx-test.js'
+Vue.use(vueLfxTest)
 
 new Vue({
   el: '#app',
